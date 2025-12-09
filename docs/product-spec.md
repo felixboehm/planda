@@ -1,97 +1,245 @@
-# Planda - Location-Based Social Planning Platform
-## Product Specification v1.0
+# Planda - Multi-Identity Location-Based Social Network
+## Product Specification v2.0
 
 ## Executive Summary
 
-Planda is a unified social platform that combines the professional networking of LinkedIn, the event organization capabilities of Meetup, and the community discussion features of Reddit—all centered around location-based interactions. The platform enables users to build professional networks, organize and discover local events, participate in community discussions, and engage with their local area in meaningful ways.
+Planda is the next generation of social networking—a multi-identity, topic-focused platform that empowers users to create separate profiles for every aspect of their lives (business, family, sports, hobbies, relationships, etc.). Inspired by LinkedIn's professional networking, Meetup's event organization, Reddit's community-driven discussions, and Skool's learning communities, Planda adds revolutionary governance through DAO-inspired liquid democracy (without requiring blockchain). Each community and topic area is self-governed, allowing organic growth and member-driven evolution.
 
 ## Vision
 
-To create the premier location-based platform where people can connect professionally, organize community events, and engage in meaningful discussions—all within the context of their local area and interests.
+To create the ultimate location-aware social platform where people maintain multiple distinct identities, participate in deeply specialized topic communities, and collectively govern their spaces through transparent, democratic decision-making—all while seamlessly connecting online discussions with real-world local interactions.
 
 ## Core Value Proposition
 
-Planda eliminates the need to juggle multiple platforms by providing:
-- **One unified profile** for both professional and social connections
-- **Location-first discovery** of people, events, and discussions
-- **Integrated communities** that support both online discussion and offline meetups
-- **Seamless event planning** with built-in professional and social networking
+Planda revolutionizes social networking by providing:
+- **Multiple identity profiles** - Separate contexts for business, family, sports, hobbies, relationships, and more
+- **Topic-centric communities** - Deep, Reddit-style communities for every conceivable interest and subject
+- **Location-aware networking** - Connect with people and activities in your area across all your identities
+- **Self-governing communities** - DAO-inspired liquid democracy for transparent, member-driven governance
+- **Generalized offers system** - Share opportunities of any kind (jobs, events, collaborations, partnerships, etc.)
+- **Integrated learning** - Skool-inspired courses and skill development within every community
+- **Next-gen interactions** - Posts, real-time chat, threads, reactions, and multimedia engagement
 
 ## Target Users
 
 ### Primary Users
-1. **Urban Professionals** (25-45 years old)
-   - Want to network professionally and socially
-   - Seeking work-life balance and community
-   - Interested in local events and activities
+1. **Multi-Faceted Individuals** (All ages)
+   - Maintain distinct professional and personal identities
+   - Participate in diverse communities (work, hobbies, family, sports, etc.)
+   - Value privacy and context separation
+   - Want specialized communities for each interest
 
-2. **Community Organizers**
-   - Host regular events or meetups
-   - Build local communities around interests
-   - Need tools to manage and grow their groups
+2. **Community Builders & Moderators**
+   - Create and grow topic-specific communities
+   - Want tools for democratic community governance
+   - Need engagement and moderation features
+   - Organize both online and offline activities
 
-3. **Newcomers to Cities**
-   - Looking to build both professional and social networks
-   - Want to discover local events and communities
-   - Seeking career opportunities in new location
+3. **Learners & Educators**
+   - Seeking knowledge within specific topic areas
+   - Want to teach skills and share expertise
+   - Value gamified learning experiences
+   - Build learning communities
+
+4. **Local Connectors**
+   - Discover people and activities nearby
+   - Organize location-based meetups and events
+   - Build hyperlocal networks across multiple interests
+   - Connect online communities with offline gatherings
 
 ### Secondary Users
-1. **Local Businesses**
-   - Want to reach local audiences
-   - Host promotional events or workshops
-   - Build community presence
+1. **Organizations & Businesses**
+   - Engage audiences in specific topic areas
+   - Share opportunities (jobs, partnerships, collaborations)
+   - Build brand presence in relevant communities
+   - Host events and workshops
 
-2. **Remote Workers**
-   - Seeking local professional connections
-   - Looking for co-working or networking opportunities
-   - Want to combat isolation
+2. **Content Creators & Influencers**
+   - Build audiences across multiple identity contexts
+   - Monetize expertise and content
+   - Engage with niche communities
+   - Host exclusive member experiences
 
 ## Key Use Cases
 
-### 1. Professional Networking (LinkedIn-inspired)
-- Create comprehensive professional profiles
-- Connect with professionals in local area
-- Discover job opportunities nearby
-- Build location-based professional communities
-- Share industry insights and content
-- Get endorsements and recommendations
+### 1. Multi-Identity Management
+- Create separate profiles for different life contexts
+- Business/professional identity with work history and skills
+- Family identity for connecting with relatives and family events
+- Sports club identity for team activities and competitions
+- Hobby identities for various interests (gaming, photography, cooking, etc.)
+- Social/dating identity for friendships and relationships
+- Each identity has its own network, interests, and locations
+- Privacy controls prevent cross-contamination between identities
+- Switch seamlessly between identities within the same app
 
-### 2. Event Discovery & Organization (Meetup-inspired)
-- Find and RSVP to local events
-- Create and manage events and meetups
-- Build recurring event communities
-- Organize professional workshops or social gatherings
-- Track attendance and communicate with attendees
-- Discover events based on interests and proximity
+### 2. Topic-Centric Communities (Reddit-inspired)
+- Join or create communities for any topic imaginable
+- Deep, threaded discussions within each community
+- Upvote/downvote system for quality content curation
+- Sub-communities and specialized interest groups
+- Topic tags and categorization
+- Community rules and guidelines
+- Each community can be global, regional, or hyperlocal
+- Discover communities by topic, location, or both
 
-### 3. Community Discussion (Reddit-inspired)
-- Participate in location-based community boards
-- Engage in topic-specific discussions
-- Share local news, tips, and recommendations
-- Upvote quality content and contributions
-- Create and moderate local community groups
-- Ask questions and get local advice
+### 3. Learning & Development (Skool-inspired)
+- Access courses and learning modules within communities
+- Topic-specific skill development (tech, business, arts, sports, etc.)
+- Gamification with points, badges, and achievements
+- Progress tracking across different learning paths
+- Peer-to-peer teaching and mentorship
+- Live workshops and webinars
+- Community-created educational content
+- Certification and skill validation
 
-### 4. Location-Based Discovery
-- Explore what's happening nearby
-- Discover people, events, and discussions in specific neighborhoods
-- Get personalized recommendations based on location and interests
-- Find professional opportunities in target areas
-- Connect with communities in new cities before moving
+### 4. Generalized Offers System
+- **Job offers** - Within professional communities and networks
+- **Event invitations** - For meetups, conferences, parties, gatherings
+- **Collaboration requests** - For projects, partnerships, joint ventures
+- **Service offerings** - Skills, expertise, professional services
+- **Opportunities** - Volunteering, speaking engagements, competitions
+- **Marketplace offers** - Items for sale, trade, or rental
+- **Relationship opportunities** - Dating, friendships, mentorships
+- Each identity can give and receive relevant types of offers
+- Location-filtered offers for local opportunities
+
+### 5. Location-Based Discovery & Events
+- Find events happening nearby across all your identities
+- Discover people in your area with shared interests
+- Organize local meetups for any community
+- RSVP and attendance tracking
+- Post-event networking and connections
+- Hyperlocal community boards (neighborhood, city, region)
+- Location-aware offer filtering
+- Map view of nearby activities and people
+
+### 6. Democratic Community Governance
+- Each community governed by its members
+- Liquid democracy voting system
+- Direct voting or delegate to trusted members
+- Vote on community rules, moderation policies, features
+- Propose and vote on community initiatives
+- Transparent decision-making with blockchain-style auditing
+- Moderator elections and accountability
+- Community treasury and resource allocation
+- Topic-specific governance councils
+
+### 7. Next-Generation Social Interactions
+- **Posts & Threads** - Rich media posts with nested discussions
+- **Real-time Chat** - Group chats and direct messaging per identity
+- **Stories & Updates** - Ephemeral content for timely sharing
+- **Live Streaming** - Community broadcasts and events
+- **Reactions & Engagement** - Diverse ways to interact with content
+- **Collaborative Content** - Co-created posts, documents, projects
+- **Multimedia Sharing** - Photos, videos, audio, documents
+- **Cross-posting** - Share content across relevant communities
 
 ## Core Features
 
-### User Profile & Identity
+### Multi-Identity System
 
-#### Unified Profile
-- **Professional section**: Work history, skills, education, portfolio
-- **Social section**: Interests, hobbies, bio, personality
-- **Location**: Primary location with neighborhood granularity
-- **Availability**: Professional opportunities, social availability
-- **Privacy controls**: Separate professional and social visibility settings
+#### Identity Profiles
+- **Unlimited identities**: Create as many profiles as needed for different contexts
+- **Identity types**: Professional, family, sports, hobbies, social, dating, volunteering, etc.
+- **Custom identity names**: Name each identity (e.g., "Tech Professional", "Soccer Dad", "Food Blogger")
+- **Separate networks**: Each identity has its own connections and communities
+- **Identity-specific content**: Posts, activities, and history separated by identity
+- **Location per identity**: Different locations for different aspects of life
+- **Privacy walls**: Complete separation prevents identity cross-contamination
+- **Identity switching**: Quick toggle between identities in the app
+- **Shared master account**: One login managing all identities
 
-#### Reputation System
-- **Karma points**: For community contributions (Reddit-style)
+#### Identity Customization
+- **Profile information**: Tailored fields for each identity type
+- **Avatar & branding**: Distinct visual identity for each profile
+- **Interests & topics**: Curated topic lists per identity
+- **Bio & description**: Context-appropriate self-presentation
+- **Skills & expertise**: Relevant capabilities for each context
+- **Availability settings**: When and how each identity is active
+- **Notification preferences**: Per-identity communication settings
+
+#### Cross-Identity Features
+- **Master dashboard**: Overview of all identities in one place
+- **Unified search**: Find content across all your identities
+- **Consolidated notifications**: Option to see all or filter by identity
+- **Analytics**: Engagement metrics across identities
+- **Data portability**: Export data for any or all identities
+
+### Topic-Centric Community System
+
+#### Community Structure
+- **Unlimited topics**: Communities for any subject imaginable
+- **Hierarchical organization**: Main topics, subtopics, niche communities
+- **Community types**: 
+  - Global communities (worldwide discussion)
+  - Regional communities (country, state, city-specific)
+  - Hyperlocal communities (neighborhood, district)
+  - Hybrid communities (topic + location)
+- **Topic discovery**: Browse, search, and get recommendations
+- **Community joining**: Subscribe, follow, or become active members
+- **Community creation**: Any user can start a new community
+- **Cross-community participation**: Engage across multiple communities per identity
+
+#### Community Features
+- **Threaded discussions**: Reddit-style nested conversations
+- **Post types**: Text, links, images, videos, polls, questions
+- **Voting system**: Upvote/downvote for quality curation
+- **Content sorting**: Hot, new, top, controversial, rising
+- **Pinned posts**: Important announcements and resources
+- **Community wiki**: Collaborative knowledge base
+- **FAQs**: Frequently asked questions and answers
+- **Community rules**: Clear guidelines and standards
+- **Tags & flair**: Categorize posts and identify users
+- **Moderation tools**: Content review, user management, rule enforcement
+
+#### Community Governance (DAO-inspired)
+- **Liquid democracy**: Members vote directly or delegate voting power
+- **Governance proposals**: Anyone can propose changes or initiatives
+- **Voting mechanisms**: 
+  - Direct voting on proposals
+  - Delegate votes to trusted members
+  - Transitive delegation (delegates can pass votes forward)
+  - Revocable delegation (take back votes anytime)
+- **Governance areas**:
+  - Community rules and policies
+  - Moderator elections and removal
+  - Feature requests and priorities
+  - Resource allocation (if community has budget)
+  - Partnership and collaboration decisions
+- **Transparency**: All votes and delegations publicly visible (no blockchain required)
+- **Voting power**: Reputation-based or participation-based (no tokens needed)
+- **Proposal lifecycle**: Draft → Discussion → Vote → Implementation
+- **Veto mechanisms**: Safety measures for harmful proposals
+- **Council system**: Elected representatives for day-to-day decisions
+- **Database-driven**: Cryptographically signed audit logs ensure transparency without blockchain
+
+### Reputation System
+
+#### Karma & Points (Reddit-inspired)
+- **Community karma**: Points earned per community
+- **Identity karma**: Overall points per identity
+- **Post karma**: Upvotes on submitted content
+- **Comment karma**: Upvotes on comments and discussions
+- **Karma display**: Show reputation levels
+- **Karma requirements**: Some features unlock with sufficient karma
+
+#### Gamification (Skool-inspired)
+- **Badges & achievements**: Earn recognition for various activities
+- **Leaderboards**: Track top contributors in communities
+- **Levels & progression**: Advance through participation
+- **Challenges**: Community-specific goals and competitions
+- **Streaks**: Maintain activity over time
+- **Rewards**: Unlock features, privileges, or cosmetic items
+- **Contribution tracking**: Metrics for posts, comments, events, courses
+
+#### Trust & Verification
+- **Verified identities**: Optional verification for authenticity
+- **Endorsements**: Skills and expertise validation
+- **Testimonials**: References from connections
+- **Event attendance**: Proof of real-world participation
+- **Community standing**: Good member indicators
+- **Trust scores**: Calculated based on positive interactions
 - **Professional endorsements**: Skills validation (LinkedIn-style)
 - **Event host rating**: Based on organized events (Meetup-style)
 - **Badges and achievements**: For platform engagement
@@ -99,336 +247,562 @@ Planda eliminates the need to juggle multiple platforms by providing:
 ### Location-Based Discovery
 
 #### Map Interface
-- Interactive map showing nearby:
-  - Events and meetups
-  - Active community discussions
-  - Professional networking opportunities
-  - People in specific neighborhoods
-- Filter by category, distance, time, and type
-- Save favorite locations and neighborhoods
+- **Interactive map** showing nearby across all identities:
+  - Events and meetups for relevant topics
+  - Active community discussions in local area
+  - People with shared interests nearby
+  - Offers and opportunities (location-filtered)
+  - Learning workshops and courses
+- **Multi-layer filtering**: By identity, topic, distance, time, type
+- **Saved locations**: Favorite spots and regular haunts
+- **Privacy controls**: Choose location sharing granularity
 
-#### Location Layers
-- **Neighborhood boards**: Hyper-local discussions and announcements
-- **City-wide events**: Larger scale gatherings and conferences
-- **Professional hubs**: Industry-specific networking zones
-- **Interest zones**: Activity-based clusters (sports, arts, tech, etc.)
+#### Hyperlocal Communities
+- **Neighborhood boards**: Hyper-local discussions (street, block, building)
+- **City communities**: Municipality-wide topics and events
+- **Regional groups**: State, province, or multi-city areas
+- **Location + topic hybrid**: E.g., "Brooklyn Photographers", "Austin Tech Workers"
+- **Local discovery**: Find what's happening right around you
+- **Geo-fencing**: Notifications for nearby relevant activity
+
+### Generalized Offers System
+
+#### Offer Types
+- **Job opportunities**: Full-time, part-time, contract, freelance
+- **Event invitations**: Meetups, conferences, parties, gatherings
+- **Collaboration requests**: Projects, partnerships, co-creation
+- **Services**: Professional services, skills exchange, consulting
+- **Volunteering**: Community service, charitable work
+- **Competitions**: Contests, tournaments, challenges
+- **Mentorship**: Teaching, coaching, guidance opportunities
+- **Marketplace**: Items, rentals, trades, exchanges
+- **Relationship**: Dating, friendships, networking
+- **Learning**: Course offerings, workshops, tutoring
+
+#### Offer Features
+- **Identity-specific**: Offers visible to relevant identities only
+- **Location filtering**: Find opportunities nearby
+- **Topic relevance**: Offers matched to community interests
+- **Application system**: Apply or express interest
+- **Tracking**: Manage sent and received offers
+- **Expiration**: Time-limited opportunities
+- **Requirements**: Skills, karma, verification needed
+- **Compensation**: Paid, unpaid, exchange, volunteer
+- **Notifications**: Alerts for relevant new offers
+
+### Learning & Development (Skool-inspired)
+
+#### Course System
+- **Community courses**: Learning content within any community
+- **Topic-specific**: Courses matched to community themes
+- **Course creation**: Any member can create courses (with permissions)
+- **Structured modules**: Organized lessons and chapters
+- **Multimedia content**: Videos, text, images, documents
+- **Quizzes & assessments**: Test knowledge
+- **Progress tracking**: Monitor completion and advancement
+- **Certificates**: Completion validation
+- **Drip content**: Scheduled lesson release
+
+#### Learning Features
+- **Peer-to-peer teaching**: Members teach each other
+- **Live workshops**: Real-time learning sessions
+- **Study groups**: Collaborative learning within communities
+- **Mentorship matching**: Connect learners with experts
+- **Skill paths**: Curated learning journeys
+- **Community knowledge base**: Wikis and documentation
+- **Q&A sections**: Ask and answer questions
+- **Resource libraries**: Shared learning materials
+
+#### Gamification Integration
+- **Learning points**: Earn karma for course completion
+- **Achievement badges**: Recognition for milestones
+- **Leaderboards**: Top learners in communities
+- **Challenges**: Learning competitions and goals
+- **Skill levels**: Progress through expertise tiers
+- **Unlockable content**: Advanced material for active learners
 
 ### Events & Meetups
 
 #### Event Creation
-- Professional events (networking, workshops, conferences)
-- Social events (sports, dining, entertainment)
-- Community events (volunteering, local initiatives)
-- Recurring event schedules
-- Virtual and hybrid event support
+- **Any topic event**: Create events for any community or identity
+- **Event types**: Professional, social, learning, sports, family, etc.
+- **Recurring schedules**: Regular meetups and series
+- **Virtual, hybrid, in-person**: Flexible formats
+- **Community events**: Official community gatherings
+- **Private events**: Invitation-only gatherings
+- **Multi-community events**: Cross-community collaboration
 
-#### Event Features
-- RSVP system with capacity limits
-- Ticketing and payment processing
-- Event check-in with location verification
-- Post-event networking and connections
-- Event photos and recaps
-- Discussion threads for each event
-- Attendee list with profile previews
+#### Event Management
+- **RSVP system**: Track attendees with limits
+- **Waitlist**: Manage overflow
+- **Ticketing**: Free or paid events
+- **Payment processing**: Integrated transactions
+- **Check-in system**: Verify attendance
+- **Event chat**: Dedicated communication channel
+- **Updates & announcements**: Keep attendees informed
+- **Attendee list**: See who's coming (privacy-respecting)
 
-#### Event Discovery
-- Personalized recommendations
-- Category filters (professional, social, learning, sports, etc.)
-- Calendar view with availability sync
-- Distance-based search
-- Save events and set reminders
-- Follow event organizers
+#### Post-Event Features
+- **Networking**: Connect with other attendees
+- **Photos & recaps**: Share memories and highlights
+- **Feedback**: Rate and review events
+- **Follow-up discussions**: Continue conversations
+- **Connection suggestions**: Find interesting attendees
 
-### Community Boards
+### Next-Generation Communication
 
-#### Board Structure
-- **Local Boards**: City, neighborhood, and district-level
-- **Interest Boards**: Topic-specific communities
-- **Professional Boards**: Industry and career-focused
-- **Event Boards**: Associated with specific recurring meetups
+#### Posts & Content
+- **Rich media posts**: Text, images, videos, links, polls
+- **Threaded discussions**: Nested comment trees
+- **Live updates**: Real-time activity streams
+- **Cross-posting**: Share to multiple communities
+- **Scheduled posts**: Plan content in advance
+- **Collaborative posts**: Co-authored content
+- **Post templates**: Structured formats for specific content types
 
-#### Content Types
-- Text posts and discussions
-- Questions and answers
-- Local recommendations (restaurants, services, etc.)
-- Event announcements
-- Job postings and opportunities
-- Marketplace items (buy/sell/trade)
-- Photo and video posts
+#### Real-Time Chat
+- **Direct messaging**: 1-on-1 conversations per identity
+- **Group chats**: Multi-person conversations
+- **Community chat rooms**: Live discussion spaces
+- **Event chats**: Coordinated around gatherings
+- **Topic channels**: Focused chat areas
+- **Voice & video**: Integrated calling
+- **Message reactions**: Quick responses
+- **File sharing**: Documents, images, media
+- **Message threading**: Organize chat replies
+- **Ephemeral messages**: Auto-delete options
 
-#### Engagement
-- Upvote/downvote system
-- Nested comments and discussions
-- Content saving and sharing
-- Tagging and mentions
-- Awards and recognition
-- Moderation tools
+#### Interactive Features
+- **Live streaming**: Broadcast to communities
+- **Stories**: Temporary, ephemeral content (24hr)
+- **Polls & surveys**: Gather community input
+- **Q&A sessions**: Structured question periods
+- **AMA (Ask Me Anything)**: Community interviews
+- **Reactions**: Diverse emoji and response options
+- **Mentions & tags**: @users and #topics
+- **Bookmarks**: Save content for later
+- **Share externally**: Export to other platforms
 
 ### Networking & Connections
 
-#### Connection Types
-- **Professional connections**: Like LinkedIn
-- **Event buddies**: People met at events
-- **Community members**: Shared board participation
-- **Neighbors**: Geographic proximity
-- **Interest groups**: Shared hobbies or activities
+#### Connection System
+- **Identity-specific networks**: Each identity has its own connections
+- **Connection types**: Friends, colleagues, family, teammates, neighbors, etc.
+- **Context-aware**: Connections understand which identity context they're in
+- **Connection requests**: Send with personalized context
+- **Mutual connections**: See shared network overlap
+- **Connection strength**: Based on interactions and engagement
+- **Follow without connecting**: Stay updated without full connection
 
-#### Connection Features
-- Connection requests with context
-- Mutual connections display
-- Suggested connections based on:
-  - Location proximity
-  - Shared events attended
-  - Common interests
-  - Professional background
-- Connection strength indicators
-
-### Messaging & Communication
-
-#### Messaging
-- Direct messages between connections
-- Group chats for events
-- Board-specific messaging
-- Professional InMail (for non-connections)
-- Video call integration
-- Message reactions and media sharing
-
-#### Notifications
-- Event reminders and updates
-- Connection requests
-- Board activity (replies, mentions)
-- Nearby events starting soon
-- Professional opportunities
-- Community announcements
-
-### Professional Features
-
-#### Career Tools
-- Job board with location filters
-- "Open to opportunities" status
-- Skills showcase and endorsements
-- Project portfolio
-- Recommendations and testimonials
-- Salary insights by location
-- Company pages and reviews
-
-#### Learning & Development
-- Event-based workshops and courses
-- Mentorship matching (location-aware)
-- Skill-building communities
-- Professional content sharing
-- Industry discussion boards
+#### Connection Discovery
+- **Suggested connections**: Based on location, topics, events, communities
+- **People search**: Find users across communities and identities (privacy-respecting)
+- **Event-based**: Connect with people at the same events
+- **Community-based**: Discover active members in shared communities
+- **Location-based**: Find people nearby with shared interests
+- **Alumni/group tools**: Find people from same organizations
 
 ### Mobile-First Experience
 
 #### Mobile App Features
-- Location services and geofencing
-- Push notifications for nearby events
-- Quick event check-in
-- Mobile posting and commenting
-- Camera integration for event photos
-- Offline mode for saved content
-- Widget for upcoming events
+- **Native apps**: iOS and Android with full feature parity
+- **Identity switcher**: Quick toggle between identities
+- **Location services**: Automatic location detection and updates
+- **Geofencing**: Notifications for nearby relevant activity
+- **Push notifications**: Real-time alerts per identity
+- **Quick actions**: Fast posting, chatting, RSVPing
+- **Camera integration**: Easy content creation and sharing
+- **Offline mode**: Access saved content without connection
+- **Widgets**: Home screen shortcuts for identities, events, communities
+- **Gestures**: Intuitive swipes and navigation
 
 ## Feature Integration Examples
 
-### Scenario 1: Professional Moving to New City
-1. Sets target location on profile before move
-2. Joins professional boards for target city
-3. Discovers networking events in new neighborhood
-4. Connects with professionals in target industry
-5. Asks questions in local community boards
-6. Attends first meetup and makes connections
-7. Receives job recommendations in area
+### Scenario 1: Multi-Identity User
+1. **Sarah creates three identities**:
+   - "Tech Professional" for work and career
+   - "Marathon Runner" for sports and fitness
+   - "Food Explorer" for culinary adventures
+2. Each identity has different:
+   - Profile information and avatar
+   - Topic communities (Tech, Running, Food)
+   - Location settings (office area, running routes, restaurant districts)
+   - Connections and networks
+3. **As "Tech Professional"**:
+   - Joins "San Francisco Software Engineers" community
+   - Receives job offers from local tech companies
+   - Attends coding workshops, connects with developers
+   - Participates in tech governance votes
+4. **As "Marathon Runner"**:
+   - Joins "Bay Area Runners" and "Marathon Training" communities
+   - Discovers weekly running group meetups nearby
+   - Posts about running routes, gets advice from community
+   - Receives event invitations for local races
+5. **As "Food Explorer"**:
+   - Joins neighborhood food communities
+   - Discovers new restaurant openings through local boards
+   - Attends food tasting events
+   - Shares reviews and connects with fellow food lovers
+6. **Privacy maintained**: Work colleagues never see marathon posts, running friends don't see job applications
 
-### Scenario 2: Community Organizer
-1. Creates professional profile showcasing organizing experience
-2. Starts a recurring tech meetup event
-3. Creates associated discussion board for community
-4. Promotes event through local city boards
-5. Manages RSVPs and communicates with attendees
-6. Builds reputation through successful events
-7. Connects professionally with attendees
-8. Grows community through consistent engagement
+### Scenario 2: Community Governance in Action
+1. "Brooklyn Photographers" community has 5,000 members
+2. Member proposes: "Monthly photo walk event series"
+3. Proposal enters governance system:
+   - Draft phase: Community discusses details
+   - Vote phase: Members vote directly or delegate to experienced photographers
+   - 60% approval needed, 75% vote yes (direct + delegated)
+   - Proposal passes
+4. Community elects event organizer through liquid democracy
+5. Member proposes rule change about posting requirements
+6. Controversial vote: Some delegate votes, others vote directly
+7. Transparent ledger shows all votes and delegations
+8. Rule passes, automatically implemented by moderators
 
-### Scenario 3: Local Discovery
-1. Opens map view to see what's happening nearby
-2. Discovers discussion about new restaurant opening
-3. Joins neighborhood board to stay informed
-4. Sees professional networking event at nearby co-working space
-5. RSVPs to event and previews attendee profiles
-6. Connects with other attendees pre-event
-7. Attends event and uses check-in feature
-8. Follows up with new connections post-event
+### Scenario 3: Learning Journey
+1. Alex joins "JavaScript Developers" community with "Tech Professional" identity
+2. Discovers "React Fundamentals" course created by community expert
+3. Enrolls and completes modules, earning badges and karma
+4. Participates in study group chat with other learners
+5. Attends live workshop meetup in local area
+6. Connects with other attendees, forms ongoing study group
+7. After completion, receives course certificate
+8. Creates own course "Advanced React Patterns", teaching others
+9. Earns "Educator" badge and reputation in community
+10. Receives mentorship offers and collaboration requests
+
+### Scenario 4: Generalized Offers
+1. **Professional offer**: "React Developer" job posting in "SF Tech Jobs" → Filtered to Alex's "Tech Professional" identity
+2. **Event invitation**: "Photography Workshop" in "Brooklyn Photographers" → Filtered to relevant identity
+3. **Collaboration**: "Looking for running partner for marathon training" → To "Marathon Runner" identity
+4. **Service offer**: "Free resume review for community members" → Professional identity
+5. **Marketplace**: "Camera gear for sale" in photography community
+6. Each offer shows: Type, location distance, requirements, expiration, applicants
+7. Alex applies to relevant offers per identity, tracks responses
 
 ## Technical Architecture Overview
 
 ### Platform Components
-- Web application (responsive design)
-- Native mobile apps (iOS and Android)
-- RESTful API backend
-- Real-time messaging service
-- Location services integration
-- Payment processing integration
-- Media storage and CDN
-- Search and recommendation engine
+- **Web application**: Responsive progressive web app (PWA)
+- **Native mobile apps**: iOS and Android with full feature parity
+- **API backend**: GraphQL and REST endpoints
+- **Real-time services**: WebSocket for chat and live updates
+- **Governance system**: Database-driven with cryptographic audit logs (no blockchain required)
+- **Location services**: Geospatial processing and discovery
+- **Payment processing**: Stripe integration for transactions
+- **Media infrastructure**: CDN for images, videos, documents
+- **Search engine**: Full-text and semantic search
+- **Recommendation engine**: ML-powered personalization
+- **Analytics platform**: User and community insights
 
 ### Key Technologies
-- Geospatial database for location queries
-- Machine learning for recommendations
-- Real-time synchronization
-- Push notification service
-- Map integration (Google Maps/Mapbox)
-- Video call infrastructure
-- Image processing and optimization
+- **Identity management**: Secure multi-profile architecture with isolation
+- **Geospatial database**: PostGIS or similar for location queries
+- **Machine learning**: Recommendation, content moderation, personalization
+- **Real-time sync**: Live updates across devices and users
+- **Push notifications**: Per-identity notification routing
+- **Map integration**: Mapbox or Google Maps for visualization
+- **Video infrastructure**: WebRTC for calls, streaming for broadcasts
+- **Content moderation**: AI-assisted + human review
+- **Governance database**: Cryptographically signed audit logs for transparency
+- **Image/video processing**: Optimization, transcoding, storage
+
+### Data Architecture
+- **Identity isolation**: Strict separation between user identities
+- **Privacy by design**: Minimal cross-identity data leakage
+- **Scalable storage**: Distributed databases for global scale
+- **Caching layers**: Fast access to frequently used data
+- **Data portability**: Export capabilities for all user data
 
 ## Privacy & Safety
 
 ### Privacy Controls
-- Granular location sharing (exact, neighborhood, city)
-- Separate professional and social visibility
-- Anonymous posting options on boards
-- Block and report functionality
-- Profile visibility settings
-- Event attendance privacy
+- **Identity separation**: Complete isolation between profiles
+- **Granular location**: Choose exact, neighborhood, city, or region
+- **Visibility settings**: Per-identity and per-content privacy controls
+- **Anonymous options**: Participate without revealing identity
+- **Block & mute**: Per identity and across all identities
+- **Data control**: View, export, delete personal data
+- **Connection privacy**: Control who sees your network
+- **Activity privacy**: Hide or show participation history
+- **Search privacy**: Opt in/out of discovery
 
 ### Safety Features
-- Verified profiles (optional)
-- Event safety guidelines
-- Community moderation
-- Content filtering
-- Meeting in public spaces encouragement
-- Share event details with friends feature
+- **Verified identities**: Optional verification badges
+- **Reputation systems**: Trust scores and community standing
+- **Content moderation**: AI + human moderators + community governance
+- **Reporting tools**: Easy reporting of violations
+- **Safety guidelines**: Clear expectations for behavior
+- **Event safety**: Guidelines for safe meetups
+- **Share location**: Emergency contacts and event sharing
+- **Age verification**: Protect minors
+- **Content warnings**: Flag sensitive material
+- **Harassment protection**: Tools to prevent abuse
+
+### Governance Safety
+- **Veto system**: Platform can override harmful community decisions
+- **Anti-manipulation**: Prevent vote buying and gaming
+- **Transparency**: All governance actions publicly auditable
+- **Appeal process**: Contest moderation decisions
+- **Community standards**: Platform-wide minimum standards
 
 ## Monetization Strategy
 
 ### Free Tier
-- Basic profile
-- Event discovery and attendance
-- Board participation
-- Limited messaging
-- Standard search
+- **Multiple identities**: Create unlimited identities
+- **Community participation**: Join and post in communities
+- **Basic events**: Attend events and small event hosting
+- **Standard messaging**: Direct messages and basic group chats
+- **Learning access**: Free courses and content
+- **Offers**: Browse and apply to opportunities
+- **Governance**: Vote and participate in community governance
+- **Location discovery**: Basic map and local features
 
-### Premium Individual ($15/month)
-- Enhanced profile visibility
-- Advanced search filters
-- Unlimited messaging
-- InMail credits for professional outreach
-- Priority event access
-- Analytics on profile views
-- Ad-free experience
+### Premium Individual ($12/month)
+- **Enhanced profiles**: Advanced customization and visibility
+- **Priority discovery**: Boost in search and recommendations
+- **Advanced analytics**: Detailed insights per identity
+- **Unlimited messaging**: No limits on chats and messages
+- **Ad-free experience**: Clean interface without ads
+- **Premium badges**: Special recognition
+- **Advanced search**: Powerful filtering and discovery tools
+- **Offer priority**: Early access to opportunities
+- **Event perks**: Priority RSVP and special features
 
-### Premium Business ($99/month)
-- Company pages
-- Event promotion tools
-- Sponsored posts on local boards
-- Hiring tools and job postings
-- Analytics dashboard
-- Team member seats
-- Event ticketing with lower fees
+### Creator/Educator ($25/month)
+- **Monetize courses**: Charge for learning content
+- **Premium communities**: Paid membership communities
+- **Advanced analytics**: Student/member insights
+- **Custom branding**: Personalized community appearance
+- **Revenue sharing**: Keep majority of earnings
+- **Marketing tools**: Promote courses and communities
+- **Student management**: Advanced tracking and communication
+- **Certification**: Issue recognized certificates
 
-### Event Organizer Pro ($29/month)
-- Advanced event management
-- Custom branding
-- Email marketing integration
-- Detailed attendee analytics
-- Priority customer support
-- Reduced ticketing fees
-- Recurring event automation
+### Community Leader ($49/month)
+- **Large events**: Host events with unlimited attendance
+- **Custom governance**: Advanced voting and proposal tools
+- **Community analytics**: Deep insights and metrics
+- **Moderation tools**: Advanced content and member management
+- **Revenue options**: Monetize community activities
+- **API access**: Integrate external tools
+- **Priority support**: Dedicated community success manager
+- **Multi-moderator**: Add team members
+
+### Business ($199/month)
+- **Organization pages**: Official presence across identities
+- **Team seats**: Multiple employees/representatives
+- **Hiring tools**: Post jobs and recruit across communities
+- **Sponsored content**: Promote in relevant communities
+- **Event promotion**: Featured event listings
+- **Analytics suite**: Comprehensive business insights
+- **Lead generation**: Connect with potential customers
+- **Partnership tools**: Find collaboration opportunities
+- **Brand monitoring**: Track mentions and sentiment
 
 ### Additional Revenue
-- Event ticketing fees (small percentage)
-- Promoted events and posts
-- Featured job listings
-- Premium placement in search results
+- **Event ticketing**: Small percentage fee (3-5%)
+- **Paid courses**: Revenue share with educators (70/30 split)
+- **Premium communities**: Subscription revenue share
+- **Marketplace fees**: Transaction fees on exchanges
+- **Featured offers**: Promoted job/opportunity listings
+- **Verified badges**: One-time verification fee
+- **Data insights**: Anonymized, aggregated trend reports (B2B)
+
+### Free for Good
+- **Nonprofits**: Free Business tier for verified nonprofits
+- **Open source**: Free communities for OSS projects
+- **Education**: Free/discounted for students and educators
+- **Community service**: Free events for charitable causes
 
 ## Success Metrics
 
 ### User Engagement
-- Daily active users (DAU)
-- Events attended per user
-- Board posts and comments per user
-- Connections made per user
-- Time spent on platform
-- Event repeat attendance rate
+- **Daily/Monthly active users**: Overall platform activity
+- **Identities per user**: Average number of profiles created
+- **Community participation**: Posts, comments, votes per user
+- **Events attended**: Both virtual and in-person
+- **Learning engagement**: Course enrollments and completions
+- **Offers applied**: Interaction with opportunities
+- **Governance participation**: Votes cast and proposals made
+- **Time on platform**: Per identity and overall
+- **Cross-community activity**: Participation breadth
+- **Chat messages**: Real-time communication volume
+
+### Community Health
+- **Community growth**: New communities created
+- **Community size distribution**: Diversity of sizes
+- **Active communities**: Regular posting and engagement
+- **Governance activity**: Proposals and voting rates
+- **Moderation effectiveness**: Response time and quality
+- **Community retention**: Member staying power
+- **Local density**: Geographic distribution strength
+- **Topic diversity**: Range of subjects covered
+- **Learning communities**: Education-focused groups
 
 ### Platform Health
-- Event creation rate
-- Board activity levels
-- User retention (30, 60, 90 day)
-- Profile completion rate
-- Connection acceptance rate
-- Geographic coverage and density
+- **User retention**: 7-day, 30-day, 90-day cohorts
+- **Identity completion**: Profile fill-out rates
+- **Network effects**: Connections and community growth
+- **Content quality**: Upvote ratios and engagement
+- **Geographic coverage**: Cities and regions with critical mass
+- **Feature adoption**: Usage of key features
+- **Mobile vs web**: Platform distribution
+- **Search success**: Users finding what they want
 
 ### Business Metrics
-- Premium conversion rate
-- Average revenue per user (ARPU)
-- Event organizer conversion
-- Churn rate
-- Customer acquisition cost (CAC)
-- Lifetime value (LTV)
+- **Premium conversion**: Free to paid tiers
+- **ARPU**: Average revenue per user
+- **Tier distribution**: Breakdown by subscription level
+- **Churn rate**: Subscription cancellations
+- **Customer acquisition cost (CAC)**: Marketing efficiency
+- **Lifetime value (LTV)**: Long-term user value
+- **Transaction volume**: Event tickets, courses, marketplace
+- **Revenue mix**: Subscriptions vs transactions vs ads
 
 ## Competitive Advantages
 
-1. **Unified Platform**: Eliminates need for multiple apps
-2. **Location-First**: Built around geographic proximity from the ground up
-3. **Professional + Social**: Bridges work and life connections
-4. **Event Integration**: Seamless from discovery to networking
-5. **Community Context**: Discussions tied to real-world communities
-6. **Holistic Profile**: Complete picture of professional and personal interests
+1. **Multi-Identity System**: Only platform supporting complete life segmentation with distinct profiles
+2. **Topic-First Communities**: Deep Reddit-style communities for every subject + location hybrid
+3. **Democratic Governance**: DAO-inspired liquid democracy for community self-management
+4. **Generalized Offers**: Not just jobs - any opportunity type across all life contexts
+5. **Integrated Learning**: Skool-style courses built into every community
+6. **Location Intelligence**: Maps both physical proximity and topic affinity
+7. **Identity Privacy**: Complete separation prevents context collapse
+8. **Next-Gen Social**: Modern chat, posts, stories, streaming in one platform
+9. **Community Economics**: Built-in monetization for creators, educators, organizers
+10. **Transparent Governance**: Verifiable voting and decision-making (database-driven, no blockchain required)
 
 ## Roadmap
 
-### Phase 1: MVP (Months 1-6)
-- Basic user profiles (professional + social)
-- Event creation and discovery
-- Simple location-based boards
-- Core messaging
-- Mobile app (iOS and Android)
-- Basic search and filters
+### Phase 1: Foundation (Months 1-8)
+**Core Identity & Community System**
+- Multi-identity profile creation and management
+- Basic community creation and participation
+- Threaded discussions with voting
+- Simple location-based discovery
+- Mobile apps (iOS and Android)
+- Direct messaging per identity
+- Event creation and RSVP
+- Basic governance (simple voting)
 
-### Phase 2: Growth (Months 7-12)
-- Advanced recommendation engine
-- Map-based discovery interface
-- Professional networking features
-- Premium tiers launch
-- Video calls integration
-- Enhanced moderation tools
+### Phase 2: Engagement (Months 9-16)
+**Social Features & Growth**
+- Real-time chat and group messaging
+- Generalized offers system
+- Learning/course platform (Skool-inspired)
+- Gamification (badges, karma, leaderboards)
+- Advanced search and discovery
+- Map-based interface
+- Live streaming and stories
+- Premium subscription tiers
+- Event ticketing and payments
 
-### Phase 3: Scale (Months 13-18)
-- Company pages and business accounts
-- Advanced analytics
-- API for third-party integrations
-- Event organizer tools
-- Learning and mentorship features
+### Phase 3: Governance (Months 17-24)
+**Democratic Community Control**
+- Liquid democracy voting system
+- Proposal and governance lifecycle
+- Delegation mechanisms
+- Cryptographic audit logs for transparency
+- Community treasury management (optional)
+- Transparent voting ledger
+- Moderator elections
+- Advanced moderation tools
+- API for third-party tools
+
+### Phase 4: Scale (Months 25-36)
+**Business & Ecosystem**
+- Business/organization accounts
+- Advanced analytics suite
+- Marketplace transactions
+- Creator monetization tools
+- Partnership integrations
 - International expansion
+- Developer platform/API
+- AI-powered recommendations
+- Advanced content moderation
+- Community insights and trends
 
-### Phase 4: Ecosystem (Months 19-24)
-- Marketplace features
-- Service provider directory
-- Local business partnerships
-- Developer platform
-- Advanced AI recommendations
-- AR features for location discovery
+### Phase 5: Innovation (Months 37+)
+**Next-Generation Features**
+- AR location discovery
+- VR community spaces
+- Advanced AI assistants per identity
+- Automated governance suggestions
+- Predictive community matching
+- Cross-platform integrations
+- Advanced privacy technologies
+- Global governance federation
+- Optional blockchain integration for communities that want it
 
 ## Risks & Mitigation
 
-### Risks
-1. **Complex product**: Too many features can confuse users
-2. **Network effects**: Need critical mass in each location
-3. **Moderation challenges**: User-generated content at scale
-4. **Privacy concerns**: Location data sensitivity
-5. **Competition**: Established players in each vertical
+### Product Risks
+**Risk**: Product too complex with multiple identities and governance
+- **Mitigation**: Excellent onboarding, progressive disclosure, optional features
+- **Mitigation**: Start with 1-2 identities, users add more as they understand value
 
-### Mitigation Strategies
-1. **Phased rollout**: Start with core features, add gradually
-2. **Geographic focus**: Launch in select cities to build density
-3. **AI + human moderation**: Automated + community moderators
-4. **Transparent privacy**: Clear controls and education
-5. **Unique value**: Focus on integration benefits, not feature parity
+**Risk**: Identity system feels fragmented vs unified
+- **Mitigation**: Master dashboard showing all identities
+- **Mitigation**: Smart notifications and cross-identity search
+
+**Risk**: Users confused by governance concepts
+- **Mitigation**: Simple voting UI, delegation makes it optional
+- **Mitigation**: Start with basic voting, add liquid democracy gradually
+
+### Network Effect Risks
+**Risk**: Need critical mass in each location AND each topic
+- **Mitigation**: Launch in specific cities and seed key communities
+- **Mitigation**: Start with broad topics, let communities subdivide naturally
+
+**Risk**: Empty communities and events reduce engagement
+- **Mitigation**: Seed content and events in launch cities
+- **Mitigation**: Merge similar small communities, suggest related active ones
+
+### Moderation Risks
+**Risk**: Community-governed spaces become toxic
+- **Mitigation**: Platform-level safety standards, veto power
+- **Mitigation**: AI moderation + human review for serious violations
+- **Mitigation**: Easy reporting and appeals process
+
+**Risk**: Governance manipulation (vote buying, bots)
+- **Mitigation**: Reputation-based voting weight
+- **Mitigation**: Anti-sybil measures and verification
+- **Mitigation**: Transparent ledger shows suspicious patterns
+
+### Privacy Risks
+**Risk**: Identity leakage between profiles
+- **Mitigation**: Strict architectural isolation
+- **Mitigation**: Regular security audits
+- **Mitigation**: User controls to verify separation
+
+**Risk**: Location data misuse or exposure
+- **Mitigation**: Granular location controls per identity
+- **Mitigation**: Minimize location storage, delete old data
+- **Mitigation**: Clear privacy policies and user education
+
+### Competition Risks
+**Risk**: Established platforms (LinkedIn, Reddit, Meetup) add our features
+- **Mitigation**: Multi-identity is hard to retrofit into existing platforms
+- **Mitigation**: Move fast on governance and learning features
+- **Mitigation**: Build strong community lock-in through governance participation
+
+**Risk**: New entrants in same space
+- **Mitigation**: First-mover advantage in multi-identity + governance
+- **Mitigation**: Network effects within communities and locations
+- **Mitigation**: Focus on execution quality and user experience
 
 ## Conclusion
 
-Planda represents a unique opportunity to create a location-based platform that serves the complete social and professional needs of modern urban dwellers. By integrating the best elements of LinkedIn, Meetup, and Reddit around a location-first architecture, Planda can become the essential platform for anyone looking to make the most of their local community, whether for career growth, social connection, or community engagement.
+Planda represents a paradigm shift in social networking—moving from the one-size-fits-all profile model to a multi-faceted identity system that mirrors how people actually live their lives. By combining topic-centric communities (Reddit), location-based discovery (Meetup), learning communities (Skool), and democratic governance (DAOs), Planda creates something genuinely new: a platform where users can be their full, authentic, multi-dimensional selves while maintaining privacy and context separation.
 
-The key to success will be maintaining simplicity in user experience while delivering the depth of features users expect from best-in-class platforms, all unified through the lens of geographic proximity and local community.
+The key innovations are:
+1. **Multiple Identities**: Professional, family, hobbies, sports, relationships - all separate yet manageable
+2. **Deep Communities**: Topic-focused spaces with real governance, not just moderation
+3. **Liquid Democracy**: True community self-management with transparent, delegated decision-making
+4. **Universal Offers**: Jobs, events, collaborations - anything can be an opportunity
+5. **Integrated Learning**: Every community can teach and learn
+
+Success depends on nailing the core user experience (identity management must feel natural, not complex), achieving critical mass in key cities and topics, and proving that community governance works at scale. The vision is ambitious but addresses real pain points: context collapse on social media, lack of control over online communities, disconnection between online discussion and offline action, and the need to juggle multiple apps for different life contexts.
+
+Planda isn't just another social network—it's the infrastructure for how people will connect, learn, organize, and govern themselves in the digital age.
