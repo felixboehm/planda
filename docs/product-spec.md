@@ -3,7 +3,7 @@
 
 ## Executive Summary
 
-Planda is the next generation of social networking—a multi-identity, topic-focused platform that empowers users to create separate profiles for every aspect of their lives (business, family, sports, hobbies, relationships, etc.). Inspired by LinkedIn's professional networking, Meetup's event organization, Reddit's community-driven discussions, and Skool's learning communities, Planda adds revolutionary governance through DAO-inspired liquid democracy (without requiring blockchain). Each community and topic area is self-governed, allowing organic growth and member-driven evolution.
+Planda is the next generation of social networking—a multi-identity, topic-focused platform that empowers users to create separate profiles for every aspect of their lives (business, family, sports, hobbies, relationships, etc.). Inspired by LinkedIn's professional networking, Meetup's event organization, Reddit's topic-based communities, and Skool's learning communities, Planda provides each community with DAO-like governance mechanisms (vote delegation, liquid democracy, trust-building) without the complexity of blockchain. Communities are self-governed by their members, enabling organic growth and democratic evolution.
 
 ## Vision
 
@@ -13,9 +13,10 @@ To create the ultimate location-aware social platform where people maintain mult
 
 Planda revolutionizes social networking by providing:
 - **Multiple identity profiles** - Separate contexts for business, family, sports, hobbies, relationships, and more
-- **Topic-centric communities** - Deep, Reddit-style communities for every conceivable interest and subject
+- **Topic-centric communities** - Reddit-style topic-based approach where people become friends around shared interests
 - **Location-aware networking** - Connect with people and activities in your area across all your identities
-- **Self-governing communities** - DAO-inspired liquid democracy for transparent, member-driven governance
+- **Community self-governance** - Each community has DAO-like governance (vote delegation, liquid democracy, trust networks) - not a DAO platform, but governance tools for every community
+- **Event organization** - Meetup-style features supporting communities in organizing and managing events
 - **Generalized offers system** - Share opportunities of any kind (jobs, events, collaborations, partnerships, etc.)
 - **Integrated learning** - Skool-inspired courses and skill development within every community
 - **Next-gen interactions** - Posts, real-time chat, threads, reactions, and multimedia engagement
@@ -75,11 +76,12 @@ Planda revolutionizes social networking by providing:
 
 ### 2. Topic-Centric Communities (Reddit-inspired)
 - Join or create communities for any topic imaginable
+- **Topic-based connections** - People become friends around shared interests and likeminded thinking
 - Deep, threaded discussions within each community
 - Upvote/downvote system for quality content curation
 - Sub-communities and specialized interest groups
 - Topic tags and categorization
-- Community rules and guidelines
+- **Self-governed communities** - Members control moderation (not platform admin-driven like Reddit)
 - Each community can be global, regional, or hyperlocal
 - Discover communities by topic, location, or both
 
@@ -104,7 +106,8 @@ Planda revolutionizes social networking by providing:
 - Each identity can give and receive relevant types of offers
 - Location-filtered offers for local opportunities
 
-### 5. Location-Based Discovery & Events
+### 5. Location-Based Discovery & Events (Meetup-inspired)
+- **Event organization** - Meetup-style features help communities organize gatherings
 - Find events happening nearby across all your identities
 - Discover people in your area with shared interests
 - Organize local meetups for any community
@@ -114,16 +117,17 @@ Planda revolutionizes social networking by providing:
 - Location-aware offer filtering
 - Map view of nearby activities and people
 
-### 6. Democratic Community Governance
-- Each community governed by its members
-- Liquid democracy voting system
-- Direct voting or delegate to trusted members
+### 6. Community Self-Governance (DAO-like, but not a DAO)
+- **Each community is self-governed** by its members (not platform admin-driven)
+- **Simple, accessible governance** - Easy-to-use voting and delegation (no blockchain complexity)
+- **Liquid democracy** - Vote directly or delegate to trusted community members
+- **Per-community delegation** - Build trust networks within each community
 - Vote on community rules, moderation policies, features
-- Propose and vote on community initiatives
-- Transparent decision-making with blockchain-style auditing
+- Propose and vote on community initiatives (requests for changes)
+- **Transparent decision-making** - All votes visible and auditable
 - Moderator elections and accountability
 - Community treasury and resource allocation
-- Topic-specific governance councils
+- Focus on building trust between people in communities
 
 ### 7. Next-Generation Social Interactions
 - **Posts & Threads** - Rich media posts with nested discussions
@@ -182,6 +186,17 @@ Planda revolutionizes social networking by providing:
 - **Cross-community participation**: Engage across multiple communities per identity
 
 #### Community Features
+
+**Each community can provide diverse content and interaction types:**
+- **Events** - Organize meetups, gatherings, and activities
+- **Learning material** - Courses, tutorials, and educational content
+- **Chats** - Real-time community discussions and direct messaging
+- **Knowledge sharing** - Wiki pages, documentation, and collaborative content
+- **Requests for changes** - Governance proposals using liquid democracy
+- **Offers** - Community-specific opportunities and marketplace
+- **Plugin-based interactions** - Extensible features for community-specific needs
+
+**Standard Platform Features:**
 - **Threaded discussions**: Reddit-style nested conversations
 - **Post types**: Text, links, images, videos, polls, questions
 - **Voting system**: Upvote/downvote for quality curation
@@ -191,28 +206,36 @@ Planda revolutionizes social networking by providing:
 - **FAQs**: Frequently asked questions and answers
 - **Community rules**: Clear guidelines and standards
 - **Tags & flair**: Categorize posts and identify users
-- **Moderation tools**: Content review, user management, rule enforcement
+- **Self-governance tools**: Member-driven moderation (not admin-driven like Reddit)
 
-#### Community Governance (DAO-inspired)
-- **Liquid democracy**: Members vote directly or delegate voting power
-- **Governance proposals**: Anyone can propose changes or initiatives
-- **Voting mechanisms**: 
-  - Direct voting on proposals
-  - Delegate votes to trusted members
-  - Transitive delegation (delegates can pass votes forward)
-  - Revocable delegation (take back votes anytime)
-- **Governance areas**:
-  - Community rules and policies
-  - Moderator elections and removal
-  - Feature requests and priorities
-  - Resource allocation (if community has budget)
-  - Partnership and collaboration decisions
+#### Community Self-Governance (DAO-like mechanisms, not a DAO platform)
+**Planda doesn't build a DAO—it provides DAO-like governance tools for every community.**
+
+- **Focus on simplicity**: Easy-to-use governance accessible to all community members
+- **Per-community governance**: Each community manages its own rules and decisions independently
+- **Building trust networks**: Governance creates accountability and trust between community members
+
+**Liquid Democracy System:**
+- **Direct voting**: Members vote directly on proposals
+- **Vote delegation**: Delegate voting power to trusted community members
+- **Per-community delegation**: Different delegates for different communities
+- **Transitive delegation**: Delegates can pass votes forward to others they trust
+- **Revocable delegation**: Take back voting power anytime
+
+**Governance Areas (Requests for Changes):**
+- Community rules and policies
+- Moderator elections and removal
+- Feature requests and priorities
+- Resource allocation (if community has budget)
+- Partnership and collaboration decisions
+
+**Key Features:**
 - **Transparency**: All votes and delegations publicly visible (no blockchain required)
-- **Voting power**: Reputation-based or participation-based (no tokens needed)
+- **Trust-based voting power**: Reputation or participation-based (no tokens/cryptocurrency)
 - **Proposal lifecycle**: Draft → Discussion → Vote → Implementation
-- **Veto mechanisms**: Safety measures for harmful proposals
-- **Council system**: Elected representatives for day-to-day decisions
-- **Database-driven**: Cryptographically signed audit logs ensure transparency without blockchain
+- **Safety mechanisms**: Veto options for harmful proposals
+- **Elected councils**: Representatives for day-to-day decisions
+- **Database-driven**: Audit logs ensure transparency without blockchain complexity
 
 ### Reputation System
 
