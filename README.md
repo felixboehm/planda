@@ -61,6 +61,24 @@ Platform analysis informing Planda's design:
 
 This is a **planning and specification repository**. Implementation repositories will be created as development progresses.
 
+## How to Use This Repository
+
+This repository is about **shaping the idea** of Planda. We welcome:
+
+- **Feedback** - Share your thoughts on the product vision and features
+- **Ideas** - Propose new features or improvements to existing concepts
+- **Use cases** - Describe scenarios where Planda would solve real problems
+- **Feature specifications** - Work on detailed specs for proposed features
+- **Concept work** - Explore design patterns, user flows, or technical approaches
+
+### Ways to Contribute
+
+1. **GitHub Issues** - Open issues to discuss ideas, questions, or suggestions
+2. **Pull Requests** - Submit PRs with concept work, new research, or spec updates
+3. **Discussions** - Engage in ongoing conversations about product direction
+
+All contributions help refine Planda's vision and prepare for implementation.
+
 ## Contributing
 
 This repository follows semantic commit conventions and PR-based workflows. See individual documents for contribution guidelines.
